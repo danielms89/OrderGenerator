@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../OrderGenerator.cfg"
+    }
+  }
+}
